@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1554512354 source:c:\users\marcos\desktop\tp-calculadora\funciones.c
+
+1554512944 source:c:\users\marcos\desktop\tp-calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Libreria.h"
+
+1554512944 c:\users\marcos\desktop\tp-calculadora\libreria.h
+
